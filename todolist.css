@@ -1,0 +1,14 @@
+.High{
+    background-color: #E7807F;
+    font-size: 20pt;
+    }
+.Med{
+    background-color:#FEEB4E;
+    font-size: 18pt;
+  }
+.Low{
+    background-color: #96E39D;
+  }
+.Done{
+    text-decoration: line-through;
+  }
