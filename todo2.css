@@ -1,1 +1,17 @@
-
+li.High{
+    background-color:#E7807F;
+    color:#FFFFFF;
+}
+li.Med{
+    background-color:#FF6600;
+    color:#472705;
+}
+li.Low{
+    background-color:#E6E6E6;
+    color:#000000;
+}
+li.Done{
+    background-color:#000000;
+    color:#00CCFF;
+    text-decoration:line-through;
+}
