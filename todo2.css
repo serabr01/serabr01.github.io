@@ -1,16 +1,16 @@
-section ul li.High{
+section ul li .High{
     background-color:#E7807F;
     color:#FFFFFF;
 }
-section ul li.Med{
+section ul li .Med{
     background-color:#FF6600;
     color:#472705;
 }
-section ul li.Low{
+section ul li .Low{
     background-color:#E6E6E6;
     color:#000000;
 }
-section ul li.Done{
+section ul li .Done{
     background-color:#000000;
     color:#00CCFF;
     text-decoration:line-through;
