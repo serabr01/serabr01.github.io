@@ -15,3 +15,6 @@ section.Done{
     color:#00CCFF;
     text-decoration:line-through;
 }
+section h2.Done{
+    text-decoration:None;
+}
