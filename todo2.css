@@ -15,6 +15,6 @@ section.Done{
     color:#00CCFF;
     text-decoration:line-through;
 }
-section.Done h2{
+.Done h2{
     text-decoration:None;
 }
