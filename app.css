@@ -1,1 +1,13 @@
 
+nav{
+    background-color:cadetblue;
+    padding:2px;
+}
+h1{
+    text-align:center;
+    text-decoration:underline;
+
+}
+p{
+    display:inline;
+}
