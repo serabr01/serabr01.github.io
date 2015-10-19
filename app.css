@@ -8,6 +8,23 @@ h1{
     text-decoration:underline;
 
 }
-p{
-    display:inline;
+article{
+    background-color:cadetblue;
+    min-height:200px;
+    width:50%;
+    margin-left:25%;
+    }
+section{
+    margin-left:25%;
+}
+.High{
+    color:#CC0000;
+    text-decoration:underline;
+}
+.Medium{
+    color:yellow;
+}
+.Low{
+    color:white;
+    text-decoration:underline;
 }
