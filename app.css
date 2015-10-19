@@ -19,12 +19,13 @@ section{
 }
 .High{
     color:#CC0000;
-    text-decoration:underline;
 }
 .Medium{
     color:yellow;
 }
 .Low{
     color:white;
-    text-decoration:underline;
+}
+.Finished{
+    text-decoration:line-through;
 }
