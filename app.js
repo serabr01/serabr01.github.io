@@ -6,7 +6,7 @@ addTask=function(){
     newLi=document.createElement("li");
     check=document.createElement("input");
     check.setAttribute("type","checkbox");
-    check.setAttribute("onchange","checkedOff()")
+    check.setAttribute("onchange","checkedOff()");
     newLi.classList.add(priority);
     list.appendChild(newLi);
     newLi.appendChild(check);
